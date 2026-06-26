@@ -1,82 +1,172 @@
-<h1 align="center">👋 Hi, I'm Karanam Mohan Rahul</h1>
+# 👋 Hi, I'm Karanam Mohan Rahul
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20Telangana-blue" alt="Location">
-  <img src="https://img.shields.io/badge/Status-2nd%20Year%20CSE%20Student-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations%20in%20AI%20%26%20MERN-orange" alt="Open to">
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue" alt="Location">
+  <img src="https://img.shields.io/badge/Role-AI%20%7C%20Full%20Stack%20Developer-brightgreen" alt="Role">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Internships%20%26%20Collaborations-orange" alt="Open to">
 </p>
 
 <p align="center">
-  <a href="mailto:rahul02.bunny@gmail.com">📫 Email</a> • 
-  <a href="tel:+917993176333">📞 +91 7993176333</a> • 
-  <a href="https://www.linkedin.com/in/karanam-mohan-rahul-637b202a5">🔗 LinkedIn</a>
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a passionate 2nd-year Computer Science Engineering student at Neil Gogte Institute of Technology (NGIT), Hyderabad, maintaining a CGPA of 8.04/10. Currently interning at IISER Kolkata on AI-driven healthcare solutions, I’ve previously worked at IIT Indore, optimizing NLP models, and developed full-stack MERN applications.
-
-Skilled in Python, PyTorch, React, and modern AI/web dev stacks, I thrive on solving real-world problems through technology. Beyond tech, I lead NGIT’s Photography Club, capturing award-winning moments to fuel my creative side.
-
----
-
-### 🛠️ Skills
-
-- **Languages**: C, C++, JavaScript, Python  
-- **Frameworks & Tools**: PyTorch, Transformers, MERN Stack, React, Git, GitHub, HTML, CSS, Jupyter, Matplotlib  
-- **Domains**: Data Structures, Web Development, Data Science, Machine Learning, Deep Learning  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python">
-  <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React">
-  <img src="https://img.shields.io/badge/PyTorch-Proficient-orange" alt="PyTorch">
+  <a href="mailto:rahul02.bunny@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/karanam-mohan-rahul-637b202a5">LinkedIn</a> •
+  <a href="https://github.com/kmrahul17">GitHub</a> •
+  <a href="https://vishwapath-updated.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-### 💼 Work Experience
+## 🚀 About Me
 
-- **Deep Learning for NLP Intern – IIT Indore**  
-  *April 2025 – June 2025*  
-  Built a custom Transformer model for low-resource English–Indic translation. Reduced pre-trained model dependency by 90% and improved BLEU scores by 15%.
+I'm a Computer Science Engineering student passionate about building AI-powered products that solve real-world problems. My experience spans **Generative AI, Large Language Models (LLMs), Machine Learning, Computer Vision, and Full-Stack Development**.
 
-- **AI Research Intern – IISER Kolkata & AIIMS Kalyani**  
-  *Nov 2024 – Mar 2025*  
-  Developed a MERN-based AI application for personalized health prescriptions. Improved recommendation accuracy by 80% for 500+ users. Submitted for ICMR review.
+I've worked with **Persistent Systems**, **IIT Indore**, and **IISER Kolkata × AIIMS Kalyani**, where I developed production-ready AI systems ranging from LLM-based assessment platforms to healthcare applications and Transformer-based NLP models.
+
+I enjoy turning research ideas into scalable products using modern AI and MERN technologies.
 
 ---
 
-### 📂 Featured Projects
+## 💻 Tech Stack
 
-- 🔭 **[Vishwapath: Space Travel Booking Platform](https://github.com/kmrahul17/vishwapath-updated)**  
-  Interactive 3D system built with Three.js, real-time animations, and PayU integration. Reduced booking time by 40% for 1,000+ users.
+### Languages
 
-- 🏛️ **[JanaSeva: AI-Powered Civic Platform](https://github.com/kmrahul17/JanaSeva)**  
-  Combines an NLP chatbot with regression models to handle civic issues. Processes 10K+ queries monthly with 30% better resolution accuracy.
+* Python
+* JavaScript
+* C
+* C++
 
-- 🎓 **[Gurukul: Scalable EdTech System](https://github.com/kmrahul17/Gurukul-project)**  
-  Full-stack learning management platform supporting 2,000+ users with secure course enrollment and resource tracking.
+### AI / ML
+
+* PyTorch
+* Transformers
+* LangChain
+* Hugging Face
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* NLP
+
+### Full Stack
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+* MERN Stack
+* HTML
+* CSS
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter
+* Matplotlib
+* Three.js
 
 ---
 
-### 🏆 Achievements
+## 💼 Experience
 
-- 🥇 Best Website Award + 5th Place at **Udyamistav’25**, IIT Jammu (800+ participants)  
-- 🧠 Completed **Machine Learning Workshop**, Avenues’21, IIT Bombay  
-- 📊 Attended **AI & Data Science Workshop**, FCC, IIT Hyderabad (500+ participants)  
-- 📜 Certified in:
-  - IBM Full Stack Software Developer (Coursera)  
-  - Supervised ML – DeepLearning.AI, Stanford  
+### 🏢 AI Intern — Persistent Systems
 
----
+**Nov 2025 – Jan 2026**
 
-### 🌟 Extracurriculars
-
-- 📸 **Head, Photography Club (Chaya)** – Led event coverage and visual storytelling  
-- 🏅 1st Prize – Photography Competition, Nexus Fest, KMIT Hyderabad  
+* Built an AI-powered assessment platform using **LangChain + LLMs**
+* Reduced manual MCQ creation time by **70%+**
+* Developed an automated MCQ generation pipeline with validation and quality filtering
+* Improved assessment reliability using AI-based answer verification and confidence scoring
 
 ---
 
-💬 *Let’s connect and build something amazing together!* 🚀
+### 🧠 Deep Learning for NLP Intern — IIT Indore
+
+**Apr 2025 – Jun 2025**
+
+* Built a custom Transformer for English–Indic Machine Translation
+* Processed 100K+ sentence pairs
+* Improved BLEU score by **15%**
+* Reduced dependency on pre-trained models by **90%**
+
+---
+
+### 🏥 AI Project Intern — IISER Kolkata × AIIMS Kalyani
+
+**Nov 2024 – Mar 2025**
+
+* Developed an AI-powered healthcare platform using the MERN stack
+* Generated personalized prescriptions for **500+ users**
+* Improved recommendation accuracy by **80%**
+* Project submitted for **ICMR Review**
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 Vishwapath — Space Travel Accessibility Platform
+
+🔗 https://github.com/kmrahul17/vishwapath-updated
+
+* 3D space travel booking platform using Three.js
+* Real-time route visualization
+* Secure PayU payment integration
+* JWT Authentication
+* Reduced booking time by **40%**
+
+---
+
+### 🏛 JanaSeva — AI Citizen Governance Platform
+
+🔗 https://github.com/kmrahul17/JanaSeva
+
+* AI-powered civic complaint platform
+* NLP chatbot handling **10K+ monthly queries**
+* Image-based complaint reporting
+* AI-driven resolution time prediction
+
+---
+
+### 🛣 SafeStreets — AI Road Damage Detection
+
+* Built an AI pipeline using **YOLO, Vision Transformers, and CNNs**
+* Classified road damage across **8 categories**
+* GPS-enabled reporting using React Native
+* Gemini-powered report summarization and AI chatbot
+* Achieved **92% detection precision**
+
+---
+
+## 🏆 Achievements
+
+🏅 Best Website Award — Udyamistav'25, IIT Jammu
+
+🏅 5th Place among 800+ participants
+
+📜 Supervised Machine Learning — DeepLearning.AI & Stanford
+
+---
+
+## 🌱 Currently Exploring
+
+* Agentic AI
+* RAG Systems
+* Multi-Agent Architectures
+* Large Language Models
+* AI for Enterprise Applications
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[rahul02.bunny@gmail.com](mailto:rahul02.bunny@gmail.com)**
+
+💼 LinkedIn: **https://www.linkedin.com/in/karanam-mohan-rahul-637b202a5**
+
+🌐 Portfolio: **(https://rahul-ai-systems.onrender.com/)**
+
+💻 GitHub: **https://github.com/kmrahul17**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, or explore my repositories.
+</p>
