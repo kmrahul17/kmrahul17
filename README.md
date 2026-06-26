@@ -10,7 +10,7 @@
   <a href="mailto:rahul02.bunny@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/karanam-mohan-rahul-637b202a5">LinkedIn</a> •
   <a href="https://github.com/kmrahul17">GitHub</a> •
-  <a href="https://vishwapath-updated.vercel.app/">Portfolio</a>
+  <a href="https://rahul-ai-systems.onrender.com/">Portfolio</a>
 </p>
 
 ---
